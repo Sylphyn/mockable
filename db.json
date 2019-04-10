@@ -1,4 +1,5 @@
-[
+{
+"posts": [
 {
  "postId": 1,
  "title" : "foo",
@@ -33,7 +34,9 @@
  "id": 5,
  "title": "title user number 5",
  "body" : "body user number 5"
-},
+}
+ ],
+"comments"[
 {
 "postId": 2,
  "userId" : 1,
@@ -68,12 +71,6 @@
  "id": 10,
  "title": "title user number 10",
  "body" : "body user number 10"
-},
-{
-"postId": 2,
- "userId" : 1,
- "id": 11,
- "title": "title user number 11",
- "body" : "body user number 11"
 }
-]
+ ]
+}
