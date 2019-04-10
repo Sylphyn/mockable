@@ -36,7 +36,7 @@
  "body" : "body user number 5"
 }
  ],
-"comments"[
+"comments" :[
 {
 "postId": 2,
  "userId" : 1,
